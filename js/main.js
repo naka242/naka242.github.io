@@ -68,7 +68,7 @@ jQuery(function($) {'use strict',
 });
 
 
-// // Google Map Customization
+// Google Map Customization
 // (function(){
 
 // 	var map;
